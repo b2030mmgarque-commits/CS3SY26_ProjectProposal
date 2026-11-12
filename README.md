@@ -5,7 +5,7 @@
 cvbbbc
 ### Project Title or Name of the Application	:
 ### Section			   	      :
-### Group Members			    :
+### Group Members			    : 
 ### Date (Proposal Date)  : Nov 5, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
@@ -18,9 +18,9 @@ fdfhdfhfshsdhfhhtrthdfh
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
+### Class Diagram:
+<img width="742" height="528" alt="Q2_CS3_ProjectProposalFinalUML" src="https://github.com/user-attachments/assets/2546adc2-6b12-40d4-be01-8654a03aac7f" />
 
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
 ### Goals:
 
