@@ -2,21 +2,20 @@
 
 
 ## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    : 
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+
+### Project Title or Name of the Application	: Batch Task Tracker
+### Section			   	      : 9 - Beryllium
+### Group Members			    : DOLLISON, GARQUE, SALVAN
+### Date (Proposal Date)  : Nov 13, 2026
+
 ### Project Description:
 
-- A brief summary of the project description and the need for it.
+- The batch task tracker is available for a whole Pisay batch to use. It can monitor requirements, projects, and assessments for the entire batch—overseeing details like the task name, deadline of the task, status (completed or not), and even which sections a task applies to (since sometimes teachers don’t give the same tasks to the whole batch).
+  
+- In the batch task tracker, there are tasks where it has a name, due date, and status (completed or not), which should all be displayed. Tasks should be organized into a list and sorted by the deadline wherein the closest due date should be at the top of the list. The users (students), who will use the task tracker, have a name and email attribute, and they are able to view the tasks, log in, and log out. The users are divided into two classes, the editors and the viewers. The editors are able to add a task, edit a task, and delete a task. While the viewers, are able to add a comment to a task, edit a comment, and delete a comment. A comment has content and the date when it was posted, which both should be displayed. A user belongs to one section, that has a name, and for each task one or many sections are assigned to it. 
 
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
+- This batch task tracker can greatly help pisay students as it displays and organizes all requirements, projects, and assessments of all sections. 
 
-- Include the description as well of your target demographics as the user of your application. 
-
-- The description is then followed by the class diagram, depicting clearly what was described.
 
 ### Class Diagram:
 <img width="742" height="528" alt="Q2_CS3_ProjectProposalFinalUML" src="https://github.com/user-attachments/assets/2546adc2-6b12-40d4-be01-8654a03aac7f" />
