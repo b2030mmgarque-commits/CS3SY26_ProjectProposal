@@ -18,8 +18,7 @@
 
 
 ### Class Diagram:
-<img width="742" height="528" alt="Q2_CS3_ProjectProposalFinalUML" src="https://github.com/user-attachments/assets/2546adc2-6b12-40d4-be01-8654a03aac7f" />
-
+<img width="742" height="528" alt="Q2_CS3_ProjectProposal drawio" src="https://github.com/user-attachments/assets/f940eda0-c973-43c2-9664-8b73d5beab9c" />
 
 ### Goals:
 
