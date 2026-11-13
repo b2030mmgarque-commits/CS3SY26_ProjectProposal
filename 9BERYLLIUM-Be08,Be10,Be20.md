@@ -24,8 +24,6 @@
 
 -In the long term, this project aims to reduce academic burnout and improve overall student performance by fostering consistent time-management habits and peer accountability. rather than relying on last-minute cramming, students will develop a proactive approach to their workload and build a supportive, collaborative study culture.
 
-- Objective 1: help students track their requirements and deadlines more efficiently
-- Objective 2: make a simple program for it so it's easier for students to use and navigate
-- Objective 3: promote collaboration between users of the program
-
-[Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
+- Objective 1: Help students track their requirements and deadlines more efficiently
+- Objective 2: Make a simple program for it so it's easier for students to use and navigate
+- Objective 3: Promote collaboration between users of the program
